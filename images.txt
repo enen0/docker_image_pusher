@@ -4,3 +4,16 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+frrouting/frr:latest
+nicolaka/netshoot:latest
+hellt/vrnetlab:linux
+hellt/vrnetlab:xr  ｜ Cisco IOS XR
+hellt/vrnetlab:veos  ｜ Arista vEOS
+hellt/vrnetlab:vjunos  ｜ Juniper vSRX / Junos
+hellt/vrnetlab:nokia-sr  ｜ Nokia SR OS
+hellt/vrnetlab:cvx  ｜ Cumulus Linux
+sonic-mgmt/sonic:latest
+nokia/srlinux:latest  ｜ Nokia SR Linux
+praqma/network-multitool:latest
+influxdb:1.8  +  grafana/grafana:latest
+quay.io/frrouting/frr:stable
